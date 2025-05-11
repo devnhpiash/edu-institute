@@ -2,7 +2,8 @@
 
 ![Website Screenshot](screenshot.png) <!-- Replace with your actual screenshot -->
 
-A fully responsive and modern Educational Institute Website built with HTML, CSS, JavaScript, and Bootstrap. Developed as a Level 3 (Batch 10) task for the **NSDA Web Design and Development for Freelancing** program.
+
+This project was developed as a part of the **"Web Design and Development for Freelancing - NSDA - Level 3 (Batch No: 10)"** program. The objective was to create a **fully responsive Educational Institute Website** using **HTML, CSS, JavaScript, and Bootstrap**.
 
 ## 🚀 Features
 
@@ -40,6 +41,23 @@ A fully responsive and modern Educational Institute Website built with HTML, CSS
 4. **FAQ Page**  
    - 5 JavaScript-collapsible questions  
    - One question includes a styled unordered list
+   
+5. **Full container wide navigation menu with mouse hover effect.**
+
+6. **Confirmation popup window when submitting the contact form.**
+7. **CSS framework.**
+
+8. **Unordered list of food items using CSS styles (Background color,       Hover     effect, Border, Radius,without using framework help).**
+
+9. **External link with 'target' blank attribute.**
+
+10. **Current Date & Time using JavaScript.**
+
+11. **Include External CSS & JavaScript file.**
+
+12. **Internal pages linking.**
+
+
 
 ## 🧑‍💻 Installation / Setup
 
