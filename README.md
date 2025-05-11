@@ -1,6 +1,6 @@
 # Educational Institute Website
 
-![Website Screenshot](Screenshot.png) <!-- Replace with your actual screenshot -->
+![Website Screenshot](screenshot.png) <!-- Replace with your actual screenshot -->
 
 A fully responsive and modern Educational Institute Website built with HTML, CSS, JavaScript, and Bootstrap. Developed as a Level 3 (Batch 10) task for the **NSDA Web Design and Development for Freelancing** program.
 
