@@ -1,0 +1,70 @@
+.bannerRow{
+min-height: 40vh;
+background-color: antiquewhite;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+
+.contcenter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.card{
+    border: none;
+}
+
+
+.headheight {
+  border-radius: 10px;
+}
+
+.card-img-top{
+    max-height: 300px;
+    min-height: 300px;
+}
+
+.nav-link:hover{
+    color: rgb(0, 140, 255);
+}
+
+.nav-link:active{
+    color:coral;
+    font-weight: 600;
+}
+.active{
+    color:coral !important;
+    font-weight: 600;
+}
+
+.text-muted {
+  margin-bottom: 1rem;
+}
+
+
+.uorderlistitem{
+    background-color:#f8f9fa;
+    border:1px solid #ddd;
+    border-radius:5px;
+    padding:5px;
+    margin-bottom:5px;
+}
+
+.uorderlistitem:hover{
+    background-color:aqua;
+    border:1px solid #e4ee55;
+    font-weight: 600;
+}
+
+
+@media (max-width: 992px) {
+.bannerRow{
+    min-height: 25vh;
+} 
+}
+
+
+
